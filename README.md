@@ -7,6 +7,10 @@ M5Stack Plotclock with PCA9685 Servo PWM Driver.
 - Wifi Setting with Web browser by using QRCode.
 - Time can be set using NTP server
 
+Screen shot of Wifi setting.
+![Wifi Setting](https://pbs.twimg.com/media/Dkx4aDWVAAEYAP3.jpg)
+
+
 ## Movie
 https://twitter.com/i/status/1025086708210008064
 
