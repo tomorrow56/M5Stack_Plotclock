@@ -1,4 +1,4 @@
-# PlotClock for M5Stack
+# PlotClock with M5Stack
 
 ![M5PlotClock](https://pbs.twimg.com/media/DkxyIiiVAAE5Vw2.jpg)
 
