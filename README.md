@@ -12,10 +12,10 @@ Screen shot of Wifi setting.
 
 
 ## Movie
-./img/PLotclock.mp4
+https://github.com/tomorrow56/M5Stack_Plotclock/blob/master/img/PLotclock.mp4
 
 ## STL Data
- https://www.thingiverse.com/thing:248009
+https://www.thingiverse.com/thing:248009
 
 ## The library used in this work
 
