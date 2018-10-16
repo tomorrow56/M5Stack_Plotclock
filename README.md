@@ -1,6 +1,6 @@
 # PlotClock with M5Stack
 
-![M5PlotClock](https://pbs.twimg.com/media/DkxyIiiVAAE5Vw2.jpg)
+![M5PlotClock](./img/PlotClock.jpg)
 
 M5Stack Plotclock with PCA9685 Servo PWM Driver.
 
@@ -8,11 +8,11 @@ M5Stack Plotclock with PCA9685 Servo PWM Driver.
 - Time can be set using NTP server
 
 Screen shot of Wifi setting.
-![Wifi Setting](https://pbs.twimg.com/media/Dkx4aDWVAAEYAP3.jpg)
+![Wifi Setting](./img/QRCode.jpg)
 
 
 ## Movie
-https://twitter.com/i/status/1025086708210008064
+./img/PLotclock.mp4
 
 ## STL Data
  https://www.thingiverse.com/thing:248009
