@@ -12,7 +12,7 @@ Screen shot of Wifi setting.
 
 
 ## Movie
-https://github.com/tomorrow56/M5Stack_Plotclock/blob/master/img/PLotclock.mp4
+https://youtu.be/6GkPHkKiKbs
 
 ## STL Data
 https://www.thingiverse.com/thing:248009
