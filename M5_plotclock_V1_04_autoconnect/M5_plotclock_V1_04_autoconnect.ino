@@ -71,7 +71,7 @@ extern const unsigned char gImage_logoM5[];
 String DisplayFileName = "";
 
 // you can also call it with a different address you want
-Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(0x72);
+Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver(&Wire, 0x72);
 
 int servoLift = LIFT2;
 
